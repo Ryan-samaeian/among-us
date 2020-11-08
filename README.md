@@ -8,8 +8,8 @@
   </a>
 </p>
 
-> This is a really cool css WORKING among-uscharacter 
-
+> This is a really cool css WORKING among-us character 
+![AMONG US FREE CODE!!!](/ryan-samaeian.png)
 ### 🏠 [Homepage](index.html)
 
 ### ✨ [Demo](None)
